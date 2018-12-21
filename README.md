@@ -4,7 +4,7 @@
 Se realiza crud atraves de yargs 
 
 
-execute: npm init
+execute: npm install
 
 por ejemplo: node app crear -d "CreeMiexample"
              node app listar
@@ -12,4 +12,3 @@ por ejemplo: node app crear -d "CreeMiexample"
              node app actualizar -d "CreeMiexample" -c
 
 
-             
